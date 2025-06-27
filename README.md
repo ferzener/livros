@@ -1,2 +1,17 @@
 # livros
-lista da minha coleção de livros digitais, desejos e feedbacks
+lista da minha coleção de livros no meu novo kindle, desejos e feedbacks
+
+# TENHO
+- O Alienista;Machado de Assis;[link](https://www.amazon.com.br/Alienista-Machado-Assis-ebook/dp/B0BW6P7NDD?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.0v6mx-JNIOlSezP5sJtUAfXwU77URfDsxvm_R2c0RschuKaGkfkHlWHSbhIIjunanw1KBxV2eWFlvC2xo01OGGaLDHS6SlkEHPpzO5uRb98AmRtV5T5QqU5YFxEB8ASyTrwcsD7cPZGRh9R4zvphfnrQqkfgSRf2mOaO9dUdOQhWUUcEpcOaGZrIFO9nEyVcDkgN5pOYq2DvXpm68W7kSJHnLU0ElkazlhENE_fyKrkAXLuElsBtKJSCRtDqMtXWQEyBfMoUfdTnM0199OekT56uc3ZPWb9uApB0Ps2Q7Bk.-LMRAYY6jeGVmSJjcK3hlCvt66m_keM-ioJfCUVpHTQ&qid=1750987591&sr=8-1)
+- O Banquete;Platão;[link](https://www.amazon.com.br/Banquete-Plat%C3%A3o-ebook/dp/B00DXA3NYE?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3FDVZTQWN7E4G&dib=eyJ2IjoiMSJ9.TrjJZvh_PLegUgPYtmhaOeMak1XCzrkZy6la3VEiYjSRnoiwmE5Gg_82bbvuF5aXDxMU3R0DWmTuJuYoBgBekd2Soyo8N6NEeATN8NPGHfNMlZyNfRmMf8noSqEDar9QA0mosPLruk-Y1qnYBX7PBpdTAJsuK_NZ-I6CkLJmN2KDspr1_Ya1aDgkEf5lZzyKbpQarmANGgoJLEFY4TLXO5Mx8AydKza-oo8nN-A3ewKPmROzzOHxkaxGsymKdoPuJ6-RhQ2GZgBLXo-Q0kmcNaD5nA7j9DeDcJX7Q-5fedI.sfW092LIOiywmoYPekPbw1QhS_agEKKo4s6_FBToxL0&dib_tag=se&keywords=o+banquete&qid=1750987739&sprefix=o+%2Caps%2C1198&sr=8-4)
+- Fundamentação da Metafisica dos Costumes;Immanuel Kant;[link](https://www.amazon.com.br/Fundamenta%C3%A7%C3%A3o-metaf%C3%ADsica-costumes-Immanuel-Kant-ebook/dp/B0B18V18QS?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.RaQN75ARcXTGuTuO7Jtjw17zNl0zC7QFRFew68bo0UpW8x7wKOt5FMmJr6q32x7f-LAcav0iWFGGS1lRP-5IY1EojyO5N710SSGpI8p7z3R7RtfgSpD75Ife3Md8b-03koaUb2az_mJBa3eaIyaPe5l6ewy6qjW-IV-Mj_iwAOgklO4N1pFtkdGWR6pafsc6rXmzx-yUZ8buHPBJxNHTNUUbbdUwOTBf8yNVvB_N88_HcL4nS8BLxoUsHRGbUyLid56gKy9jDn3E1niZqbT8NxDUYye2h5H2NdFjpsYoC18.IhIE0syJddTnojJ2ykrY21CyEX9OZgsRtAYLUKDdcZg&qid=1750987846&sr=8-1)
+- A Origem da Desigualdade Entre os Homens;Jean-Jacques Rousseau;[link](https://www.amazon.com.br/origem-desigualdade-entre-homens-ebook/dp/B075RMPX32?crid=1TLQNN06QBT65&dib=eyJ2IjoiMSJ9.lYqztLb9KXyJFkDjc5RoEQRGo-ix7p8ykwCSAGuLkciDA4k8onRA-NcNAu1zMHh61nERSFu7HVNcT_1jfuPkDeBp_KlnkWlw4jB_xntInZJ2RGtkEE-KaYrUlJpe1j4Zzl2epB7-eCKOmY6cZAmV01aQF23bJe2gilZYtstWc1WukNBOvtVkvblqIEzd_trCNADxaZWZcIaa2pnHfykHgxhBM2vvjj9x9h0JGbUZGtWleOX9oyhjqYy7kOfkN0nppy50r3XElNPLED3jZ1DZwyraCmOfZF_q-jIO45A9ERk.GDXb38gmSSjocpKqpASEZ8mcG0GUx7b95KULcWbzSs8&dib_tag=se&keywords=a+origem+da+desigualdade+entre+os+homens&qid=1750987905&sprefix=origem+da+desi%2Caps%2C470&sr=8-1)
+- Essencialismo: A disciplinada busca por menos;Greg McKeown;[link](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.B3-ogy8_XKS-DTl982AXtYfvQHgPfzDAfssP8n6sP-pqZ9bzBuDJMvSyHTvG--C5IKqbmjWxKsWhwLv0Rm_w_7JUUxOxrvtae2akO_hb3-s8bzGVkx-BRs-3aXgLRHIdvuXwxqGXdx9qgLAdKndMKaGJ7pvUn77PH322h3B3inPgOVweIZAmC3Ut_Te1y9yxDts3mkCyL2GPoR0e-eVuAWbYhFe-Ur6qspcAsa5GbuBSIGw_xl1-py3UqQhofr4gHeagiD7BvoVr6vEruA5oLIGqASLkWEU5RzHOf4kjX2w.ztOqKKO_N_kMGrNXKq5L-hiftSBRHo073RbTbKBBc18&qid=1750987998&sr=8-1)
+
+# DESEJO
+- Sobre a Ira;Sêneca
+- Sobre o Ócio;Sêneca
+- Sobre a Constância do Sábio;Sêneca
+
+# LIDO
+- 
