@@ -9,9 +9,9 @@ lista da minha coleção de livros no meu novo kindle, desejos e feedbacks
 - Essencialismo: A disciplinada busca por menos;Greg McKeown;[link](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.B3-ogy8_XKS-DTl982AXtYfvQHgPfzDAfssP8n6sP-pqZ9bzBuDJMvSyHTvG--C5IKqbmjWxKsWhwLv0Rm_w_7JUUxOxrvtae2akO_hb3-s8bzGVkx-BRs-3aXgLRHIdvuXwxqGXdx9qgLAdKndMKaGJ7pvUn77PH322h3B3inPgOVweIZAmC3Ut_Te1y9yxDts3mkCyL2GPoR0e-eVuAWbYhFe-Ur6qspcAsa5GbuBSIGw_xl1-py3UqQhofr4gHeagiD7BvoVr6vEruA5oLIGqASLkWEU5RzHOf4kjX2w.ztOqKKO_N_kMGrNXKq5L-hiftSBRHo073RbTbKBBc18&qid=1750987998&sr=8-1)
 
 # DESEJO
-- Sobre a Ira;Sêneca
-- Sobre o Ócio;Sêneca
-- Sobre a Constância do Sábio;Sêneca
+- Sobre a Ira;Sêneca;[link](https://www.amazon.com.br/Sobre-Ira-S%C3%AAneca-ebook/dp/B07DTYY1H7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.f9epqWAqKC5uLuPE90Qz2i2r11Xo6DSoX4FH-41ogHntC1ZAMWmppVNi0HTnLeXadcGhzQeMREpMQUwuDh-IjMXKaxytxOjBCnqTPhyE-L-T6xiDWnaAskNtIGZzrO4LwwTD9tj0cMS1NuRUriowFegH2mb36gFLF0Wx1HmRWl9eyVS0mfKQJbi5jCKEt1oAJOwn3YxPHzjx6gpzEv6TWL5XWyG28FVYastKB72jXWUrS6dyB5IMF0hgAUI4whGTKDfXYDP7nqjrWsq4zPiS1zhOscSaU2tr4TB1x4xt5qU.h8o5MRtBE8MxWMZ80iHgQkb76T8GSOXDyhjcVp_9eFw&dib_tag=se&keywords=Sobre+a+Ira&qid=1750988480&sr=8-3)
+- Sobre o Ócio;Sêneca;[link](https://www.amazon.com.br/Sobre-%C3%93cio-S%C3%AAneca-ebook/dp/B089S51FWH?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1Q0HSB96Q94T3&dib=eyJ2IjoiMSJ9._pJDvEuC4p1j_WnR956RXFgmn8xPvCw13LGksc28pfov882l_8umSO_sObc_u2jqjNZzuPGGJSfXPvgkCjls_EJiz3iOpflI9Rhp7lvShV40GSXla36a1FzUk6iH3714usa3Zp3uOFcp-WLMz6c1RBXztplh9VTHv3bqpye65N49JRFcKV5VMJXpJRjKhDGq4GWmWQYGVskGloB_ugA2S0PNtY8AImb-7jrg6H0fo0JTPmAjX0GFKFSHN1Yxg3v_eRlSB_VQtXwvnz3sGuAWFOKDuIsxS7e8lm9GjNZOpdo.sbrhuT44-3zIHhYSJ1R5H5XaGuqXqMZjh95nOBd5GDM&dib_tag=se&keywords=Sobre+o+%C3%93cio&qid=1750988463&sprefix=%2Caps%2C424&sr=8-1)
+- Sobre a Constância do Sábio;Sêneca;[link](https://www.amazon.com.br/Sobre-Const%C3%A2ncia-do-S%C3%A1bio-S%C3%AAneca-ebook/dp/B089DHCHX2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2599WNL833UVQ&dib=eyJ2IjoiMSJ9.WFdCRXOS4FMr7-BMr8T6pejAGVC22Mc39hMm7-hK32DoK5a5wzFTKYVgHzpYKs_pT_DkV2StGru4CChVRWkh8Wh1P9YqPXPLgfsKhFvi4-Cm3b_haUhn4wggJ4O4Gai2.eGA0WjyYk4VvBPOOrNDRIuoK6UQiw8ucgfqOCuc4_YE&dib_tag=se&keywords=Sobre+a+Const%C3%A2ncia+do+S%C3%A1bio&qid=1750988519&sprefix=sobre+a+const%C3%A2ncia+do+s%C3%A1bio%2Caps%2C376&sr=8-1)
 
 # LIDO
 - 
